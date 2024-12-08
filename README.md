@@ -48,7 +48,7 @@ The primary objective of this project is to provide a detailed overview of globa
 - **Power Query:** Used for data transformation, cleaning, and shaping the raw data into a usable format for analysis.
 
 ## Dashboard
-https://github.com/Gokuashh/Data-Analysis-Powerbi/blob/main/power%20bi%20dashboard.png
+<a href="https://github.com/Gokuashh/Data-Analysis-Powerbi/blob/main/power%20bi%20dashboard.png">View Dashboard</a>
 
 ## Conclusion:
 This Power BI dashboard provides valuable insights into global furniture sales, helping businesses analyze key segments, influencers, and regional performance. By transforming and cleaning raw data, the dashboard enables data-driven decision-making and strategic forecasting. It showcases the power of Power BI in visualizing complex data and offering actionable insights for optimizing sales strategies and driving growth.
